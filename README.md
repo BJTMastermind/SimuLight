@@ -1,19 +1,37 @@
-# Template Repository
+# SimuLight
 
-A short description about this project here.
+A small "game" to simulate and learn about how Minecraft style lighting works in a visual 3D space
 
-## How To Use (GUI)
+## Controls
 
-Coming Soon.
+**Movement Controls**
+| Action | Key |
+|--------|-----|
+| Forward | <kbd>W</kbd> |
+| Left | <kbd>A</kbd> |
+| Back | <kbd>S</kbd> |
+| Right | <kbd>D</kbd> |
+| Up | <kbd>Space</kbd> |
+| Down | <kbd>Left Shift</kbd> |
+| Sprint | <kbd>Left Ctrl</kbd>
 
-## How To Use (CLI)
+**Simulation Controls**
+| Action | Key |
+|--------|-----|
+| Simulation On/Off | <kbd>T</kbd> |
+| Reset Simulation | <kbd>R</kbd> |
+| Incress Simulation Speed | <kbd>&rarr;</kbd> |
+| Decress Simulation Speed | <kbd>&larr;</kbd> |
+| Incress Light Level | <kbd>]</kbd>
+| Decress Light Level | <kbd>[</kbd>
 
-Coming Soon.
+**Debug Controls**
+| Action | Key |
+|--------|-----|
+| Debug Screen On/Off | <kbd>F3</kbd> |
+| Chunk Borders & Floor Grid On/Off | <kbd>F3</kbd>+<kbd>G</kbd> |
 
 ## Language(s) Used
 
-* \<language> \<version>
-
-# Screen Shots
-
-Coming Soon.
+* Java 17
+* Jaylib (Raylib) 5.0
