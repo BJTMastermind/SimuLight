@@ -20,8 +20,8 @@ A small "game" to simulate and learn about how Minecraft style lighting works in
 |--------|-----|
 | Simulation On/Off | <kbd>T</kbd> |
 | Reset Simulation | <kbd>R</kbd> |
-| Incress Simulation Speed | <kbd>&rarr;</kbd> |
-| Decress Simulation Speed | <kbd>&larr;</kbd> |
+| Incress Simulation Speed | <kbd>🠊</kbd> |
+| Decress Simulation Speed | <kbd>🠈</kbd> |
 | Incress Light Level | <kbd>]</kbd>
 | Decress Light Level | <kbd>[</kbd>
 
